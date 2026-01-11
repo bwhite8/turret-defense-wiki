@@ -4,6 +4,10 @@ Welcome to Turret Defense! This guide will help you survive your first waves and
 
 ---
 
+[Play Turret Defense Game](https://www.reddit.com/r/TurretDefense/comments/1pqlju7/turret_defense_reddit_game/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+---
+
 ## Your First Game
 
 ### The Goal

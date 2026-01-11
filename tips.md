@@ -222,4 +222,4 @@ With max Salvage Master (+40% sell value):
 5. **Prestige early, prestige often** - Bonuses compound
 6. **Have fun** - Experiment with strategies!
 
-Good luck, Commander!
+Good luck, Defender!
